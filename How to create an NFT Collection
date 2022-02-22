@@ -1,0 +1,26 @@
+There are Several different methods you cn use to create an NFT and its accompanying Metadata.
+
+The Easiest way i have found to do is is:
+
+Create your NFT on Photoshop or a similar program.
+Split things into layers - Backgrounds, Body, Head, Torso, etc
+Add your accessories
+Ensure all layers are in the correct order with background being right at the bottom followed by everything else after. 
+This will ensure that when your NFT is randomly generated, it won't show the background or another layer over the primary picture for instance.
+Add all your layers into corresponding folders and name them.
+
+# Once you have completed this process:
+Now Go to Github and download the below:
+https://github.com/HashLips/hashlips_art_engine_ps_script
+
+Once downladed, extract the file and remember where the file is stored.
+
+Go back to Photoshop and go to File, Source, Browse.
+Navigate to the File and press enter.
+You will be presented with a few options.
+Follow and add all details to these options, pressing OK each time.
+Once this is complete, Photoshop will look like its frozen, but infact is creating your NFT's!
+
+To check the progress, navigate to the folder and you should now see a build folder show up.
+In there there will be 2 sub-folders.
+Images and metadata. Both these will be required to create your Minting dApp and get your NFT's on Opensea and other marketplaces!.
