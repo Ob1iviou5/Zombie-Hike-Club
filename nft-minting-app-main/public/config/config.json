@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x258f90654B655A33246D428172Dc0f261Db918b5",
+  "SCAN_LINK": "https://polygonscan.com/address/0x258f90654b655a33246d428172dc0f261db918b5",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Zombie Hike Club",
+  "SYMBOL": "ZHC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/zombie-hike-club",
+  "SHOW_BACKGROUND": true
+
+}
